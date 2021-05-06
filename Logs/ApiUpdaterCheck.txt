@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 26.04.2021 20:10:24 : Starting C:/Users/barte/AppData/Local/GitHubDesktop/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 343,0827ms
+moved types parse time: 170ms
+candidates parse time : 3ms
+C# parse time         : 613ms
+candidates check time : 87ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 26.04.2021 20:11:14 : Starting C:/Users/barte/AppData/Local/GitHubDesktop/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 160,662ms
+moved types parse time: 149ms
+candidates parse time : 3ms
+C# parse time         : 529ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 26.04.2021 20:13:47 : Starting C:/Users/barte/AppData/Local/GitHubDesktop/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174,6767ms
+moved types parse time: 144ms
+candidates parse time : 3ms
+C# parse time         : 516ms
+candidates check time : 63ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 06.05.2021 17:01:45 : Starting C:/Users/barte/AppData/Local/GitHubDesktop/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 541,9752ms
+moved types parse time: 157ms
+candidates parse time : 2ms
+C# parse time         : 609ms
+candidates check time : 62ms
+console write time    : 2ms
+
